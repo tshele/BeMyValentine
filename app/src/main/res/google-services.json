@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008631349843",
+    "firebase_url": "https://bemyvalentine-1937a.firebaseio.com",
+    "project_id": "bemyvalentine-1937a",
+    "storage_bucket": "bemyvalentine-1937a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008631349843:android:149b5035fe1e6da10abca6",
+        "android_client_info": {
+          "package_name": "com.tshelelitabe.bemyvalentine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008631349843-orsnmep70n1gcjt206mbgsl3t0c9tk11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkal38z_dtMvgk8GAVW751WB9AWayd2v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008631349843-orsnmep70n1gcjt206mbgsl3t0c9tk11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
